@@ -6,7 +6,7 @@ using MongoDB.Driver;
 using log4net.Core;
 using log4net.Util;
 
-namespace Log4Mongo
+namespace Log4Mongo.NetStandard
 {
 	public class BackwardCompatibility
 	{

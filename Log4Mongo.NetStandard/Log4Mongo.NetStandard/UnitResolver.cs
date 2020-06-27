@@ -1,6 +1,6 @@
 ﻿using System.Text.RegularExpressions;
 
-namespace Log4Mongo
+namespace Log4Mongo.NetStandard
 {
 	public class UnitResolver
 	{

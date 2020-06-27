@@ -8,7 +8,7 @@ using log4net.Appender;
 using log4net.Core;
 using System.Security.Cryptography.X509Certificates;
 
-namespace Log4Mongo
+namespace Log4Mongo.NetStandard
 {
     public class MongoDBAppender : AppenderSkeleton
     {
